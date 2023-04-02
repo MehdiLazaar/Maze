@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Projet_Labyrinthe",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Projet_Labyrinthe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Projet_Labyrinthe-Debug-b204a3ed77283bb63984.json",
+					"name" : "Projet_Labyrinthe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Projet_Labyrinthe2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Projet_Labyrinthe2-Debug-d7079bb7b32302c95dbe.json",
+					"name" : "Projet_Labyrinthe2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Projet_Labyrinthe3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Projet_Labyrinthe3-Debug-cd75031c0f87a9fcd6af.json",
+					"name" : "Projet_Labyrinthe3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Mehdi/OneDrive/Bureau/Projet_Labyrinthe/cmake-build-debug",
+		"source" : "C:/Users/Mehdi/OneDrive/Bureau/Projet_Labyrinthe"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
